@@ -8,3 +8,4 @@ Olá, bem vindo ao meu livro de receitas! :eggplant:
 
 - strogonoff de frango
 - Pavê
+- Pudim
