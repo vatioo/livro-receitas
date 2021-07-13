@@ -7,3 +7,4 @@ Olá, bem vindo ao meu livro de receitas! :eggplant:
 ### Receitas listadas
 
 - strogonoff de frango
+- Pavê
