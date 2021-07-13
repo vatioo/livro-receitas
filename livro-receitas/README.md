@@ -2,6 +2,8 @@
 
 
 
-Olá, bem vindo ao meu livro de receitas! :baby:
+Olá, bem vindo ao meu livro de receitas! :eggplant:
+
+### Receitas listadas
 
 - strogonoff de frango
