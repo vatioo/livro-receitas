@@ -2,7 +2,7 @@
 
 
 
-Olá, bem vindo ao meu livro de receitas! :eggplant:
+Olá, bem vindo ao meu livro de receitas!
 
 ### Receitas listadas
 
